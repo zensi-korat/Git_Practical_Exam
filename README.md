@@ -1,5 +1,3 @@
-# Git
-
 # Git_Practical_Exam
 # 1. Pull and Merge Difference
 - Make example of pull request and two branch merge event.

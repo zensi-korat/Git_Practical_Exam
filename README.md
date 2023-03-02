@@ -18,8 +18,8 @@
         3. Checkout in main branch.
         4. Pull latest commits of main branch.
         5. Checkout to rebase branch.
-        6. Start rebase.
-        7. Once you finish rebasing, DO NOT pull, but push immediately to remote
+        6. Start to perform rebase.
+        7. Once you finish rebasing,push immediately to remote
 
 # 3. Change commit message
 - Commit push on commit in feature branch and then change commit message

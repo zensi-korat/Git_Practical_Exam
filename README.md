@@ -51,9 +51,11 @@ This changes the message of commit in remote too.
     ```
 # 5. Drop commit
 - Remove some commit from feature branch.
+
         1. For this, I created a branch named drop_commit and in that made 3 files.
         2. In drop3.html, I made one main container and 2 sub-containers.
         3. Later, I dropped the last sub container.
+       
     ```
     git reset --hard HEAD^
     ```
